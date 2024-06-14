@@ -8,9 +8,9 @@
 - Leverage the C++ Standard Library, specifically `std::vector`, `std::queue`, and `std::unordered_set`.
 
 ### Example Word Ladders
+work -> fork -> form -> foam -> flam -> flay -> play
+work -> pork -> perk -> peak -> pean -> plan -> play
 
-1. **code** to **data**:
-2. **work** to **play**:
 
  ## Implementation Details
 
