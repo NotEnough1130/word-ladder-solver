@@ -10,7 +10,7 @@
 ### Example Word Ladders
 
 1. **code** to **data**:
-2. 2. **work** to **play**:
+2. **work** to **play**:
 
  ## Implementation Details
 
